@@ -1,6 +1,6 @@
 ## Computed fields registry for pocketbase
 
-This almost pointless abstraction exists for two purposes:
+This very minor abstraction exists for two purposes:
 
 1. Computed fields all live in one place
 2. Additional fields can be tied into typescript generation (package github.com/davenh99/pb-typescript)
