@@ -3,7 +3,7 @@ module github.com/davenh99/pb-computedfields
 go 1.25.5
 
 require (
-	github.com/davenh99/pb-typescript v0.1.2
+	github.com/davenh99/pb-typescript v0.2.0
 	github.com/pocketbase/pocketbase v0.36.1
 )
 
