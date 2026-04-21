@@ -1,3 +1,6 @@
+### Moved to [Codeberg](https://codeberg.org/davenh99/pb-computedfields)
+
+
 ## Computed fields registry for pocketbase
 
 This very minor abstraction exists for two purposes:
